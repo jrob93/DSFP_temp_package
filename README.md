@@ -14,7 +14,7 @@ pip install cowsay
 ### Usage:
 
 ```
-from code import do_something()
+from code import do_something
 do_something()
 ```
 
